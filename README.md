@@ -17,5 +17,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonahbrandwagt&show_icons=true&theme=tokyonight&count_private=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonahbrandwagt&theme=tokyonight" alt="mystreak"/>
+#![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonahbrandwagt&show_icons=true&theme=tokyonight&count_private=true)
+#<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonahbrandwagt&theme=tokyonight" alt="mystreak"/>
+
+#![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonahbrandwagt&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
+#<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonahbrandwagt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="mystreak"/>
